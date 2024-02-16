@@ -1,4 +1,4 @@
-<h1>Azure OpenI SQL Generator with GPT4</h1>
+<h1>Azure OpenAI SQL Generator with GPT4</h1>
 
 This Notebook demonstrates generating SQL query statements by using the Azure OpenAI model's function calling feature and your own database schema. It also references and incorporates some functions from the following official OpenAI Cookbook examples.
 
